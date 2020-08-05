@@ -1,0 +1,8 @@
+{
+  "1": {
+    "email": "test@gmail.com",
+    "password": "$2a$10$pC8WR9z8Kwi5lxFWsKO03eFBykfD59rAn1ZdmN32X/WVsODD2HJeS",
+    "age": 32,
+    "isAdmin": false
+  }
+}
