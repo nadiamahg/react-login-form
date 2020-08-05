@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard Component should render Dashboard correctly 1`] = `
+<div
+  className="limiter"
+>
+  <div
+    className="page-container"
+  >
+    <div
+      className="wrap"
+    >
+      <span
+        className="page-title"
+      >
+        <b>
+          You are logged in!
+        </b>
+      </span>
+      <div
+        className="limiter"
+      >
+        <div
+          id="userEmail"
+        >
+          <b>
+            Email:
+          </b>
+           
+          test@gmail.com
+        </div>
+        <div
+          id="userAge"
+        >
+          <b>
+            Age:
+          </b>
+           
+          32
+        </div>
+        <div
+          id="userIsAdmin"
+        >
+          <b>
+            isAdmin:
+          </b>
+           
+          false
+        </div>
+      </div>
+      <div
+        className="container-btn"
+      >
+        <button
+          className="page-btn dashboard-container"
+          onClick={[Function]}
+        >
+          Logout
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;

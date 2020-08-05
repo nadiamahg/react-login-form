@@ -1,0 +1,94 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login Component should render Login correctly 1`] = `
+<div
+  className="limiter"
+>
+  <div
+    className="page-container"
+  >
+    <div
+      className="wrap"
+    >
+      <div
+        className="login-pic"
+      >
+        <div
+          className="Tilt dashboard-img"
+          onMouseEnter={[Function]}
+          onMouseLeave={[Function]}
+          onMouseMove={[Function]}
+          style={
+            Object {
+              "height": 250,
+              "width": 250,
+            }
+          }
+        >
+          <div
+            className="Tilt-inner"
+          >
+             
+            <img
+              alt="IMG"
+              src="img-01.png"
+            />
+          </div>
+        </div>
+      </div>
+      <form
+        className="login-form"
+        onSubmit={[Function]}
+      >
+        <span
+          className="page-title"
+        >
+          Login
+        </span>
+        <div
+          className="wrap-input"
+        >
+          <input
+            className="input"
+            id="email"
+            onChange={[Function]}
+            placeholder="Email"
+            type="text"
+            value=""
+          />
+          <div
+            className="login-error red-text"
+            id="emailError"
+          />
+        </div>
+        <div
+          className="wrap-input"
+        >
+          <input
+            className="input"
+            id="password"
+            onChange={[Function]}
+            placeholder="Password"
+            type="password"
+            value=""
+          />
+          <div
+            className="login-error red-text"
+            id="passwordError"
+          />
+        </div>
+        <div
+          className="container-btn"
+        >
+          <button
+            className="page-btn"
+            type="submit"
+          >
+            Login
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+`;
